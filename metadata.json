@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Gestión Integral de Emergencias 911",
+  "description": "Diseño y Prototipado de Interfaces Inteligentes para el Sistema de Gestión Integral de Emergencias 911",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
